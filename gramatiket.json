@@ -1271,8 +1271,63 @@
     "target sentence": "Kodimi i imazheve kërkon fuqi të lartë përllogaritëse.",
   },
   {
-    "sentence ID": 214,
+    "sentence ID": 215,
     "source sentence": "Enkriptimi i informacionit kryhet për të fshehur përmbajtjen e tij.",
     "target sentence": "Kriptimi i informacionit kryhet për të fshehur përmbajtjen e tij.",
   },
+  {
+    "sentence ID": 216,
+    "source sentence": "Emulacioni i arkitekturës ARM64 kryhet pa ngadalësime të ndjeshme.",
+    "target sentence": "Emulimi i arkitekturës ARM64 kryhet pa ngadalësime të ndjeshme.",
+  },
+  {
+    "sentence ID": 217,
+    "source sentence": "Ky instalacion i sistemit ka defekte dhe është i ngadaltë.",
+    "target sentence": "Ky instalim i sistemit ka defekte dhe është i ngadaltë.",
+  },
+  {
+    "sentence ID": 218,
+    "source sentence": "Modulacioni i sinjalit të informacionit kryhet duke ndryshuar fazën e sinjalit mbartës.",
+    "target sentence": "Modulimi i sinjalit të informacionit kryhet duke ndryshuar fazën e sinjalit mbartës.",
+  },
+  {
+    "sentence ID": 219,
+    "source sentence": "Komunikacioni në zonat malore është i vështirë.",
+    "target sentence": "Komunikimi në zonat malore është i vështirë.",
+  },
+  {
+    "sentence ID": 220,
+    "source sentence": "Telekomunikacioni është një industri me fitime të mëdha.",
+    "target sentence": "Telekomunikimi është një industri me fitime të mëdha.",
+  },
+  {
+    "sentence ID": 221,
+    "source sentence": "Duhen parë fajlat e konfiguracionit të programit.",
+    "target sentence": "Duhen parë skedarët e konfigurimit të programit.",
+  },
+  {
+    "sentence ID": 222,
+    "source sentence": "Simulacioni kompjuterik i reaksioneve nukleare kërkon fuqi të lartë përllogaritëse.",
+    "target sentence": "Simulimi kompjuterik i reaksioneve bërthamore kërkon fuqi të lartë përllogaritëse.",
+  },
+  {
+    "sentence ID": 223,
+    "source sentence": "Transformacioni i të dhënave duhet të kryhet pa humbje informacioni.",
+    "target sentence": "Transformimi i të dhënave duhet të kryhet pa humbje informacioni.",
+  },
+  {
+    "sentence ID": 224,
+    "source sentence": "Ky kos është plotësisht natyral dhe dhumë i shëndetshëm.",
+    "target sentence": "Ky kos është plotësisht natyror dhe dhumë i shëndetshëm.",
+  },
+  {
+    "sentence ID": 225,
+    "source sentence": "Bashkësia e numrave natyral është infinite.",
+    "target sentence": "Bashkësia e numrave natyror është e pafundme.",
+  },
+  {
+    "sentence ID": 226,
+    "source sentence": "Analiza spektrale e hidrogjenit shfaq disa vija të njëpasnjëshme.",
+    "target sentence": "Analiza spektrore e hidrogjenit shfaq disa vija të njëpasnjëshme.",
+  },  
 ]
